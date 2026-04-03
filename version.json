@@ -1,6 +1,6 @@
 {
-    "latestVersion": "1.0.4",
+    "latestVersion": "1.0.5",
     "downloadUrl": "https://fuatgulenoglu922-prog.github.io/saglik-asistanim-updates/app-debug.apk",
-    "changelog": "Guncelleme indirme ve kurulum sistemi duzeltildi. Artik otomatik kurulum yapilacak.",
-    "forceUpdate": false
+    "changelog": "Guncelleme sistemi DownloadManager ile yeniden yazildi. Indirme bildirimi ve otomatik kurulum eklendi.",
+    "forceUpdate": true
 }
