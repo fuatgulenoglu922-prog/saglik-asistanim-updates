@@ -1,6 +1,6 @@
 {
-    "latestVersion": "1.0.3",
+    "latestVersion": "1.0.4",
     "downloadUrl": "https://fuatgulenoglu922-prog.github.io/saglik-asistanim-updates/app-debug.apk",
-    "changelog": "Parmak izi destegi eklendi! Ayarlardan aktif edebilirsin. Telefonun kendi parmak izi sensoru kullanilir.",
+    "changelog": "Guncelleme indirme ve kurulum sistemi duzeltildi. Artik otomatik kurulum yapilacak.",
     "forceUpdate": false
 }
